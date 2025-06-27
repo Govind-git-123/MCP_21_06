@@ -1,5 +1,5 @@
 def main():
-    print("Hello from demo-mcp!")
+    print("Hello from mcp-build-product-hunt!")
 
 
 if __name__ == "__main__":
